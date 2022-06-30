@@ -1,0 +1,101 @@
+* {
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  justify-content: center;
+  padding-top: 50px;
+  padding-left: 30%;
+  padding-right: 15px;
+}
+
+.azulmar {
+  color: #003366;
+}
+
+.azulcel {
+  color: #1398be;
+}
+
+.laranja {
+  color: #de9800;
+}
+
+.cinza {
+  color: #cccccc;
+}
+
+.vermelho {
+  color: #c91b04;
+}
+
+table {
+  border: 1px solid #dddddd;
+  border-collapse: collapse;
+  height: 40rem;
+}
+
+thead {
+  color: #999999;
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.borderGray {
+  border-bottom: 2px solid #cccccc;
+}
+
+tr {
+  border: 1px solid #dddddd;
+  font-weight: bold;
+}
+
+td {
+  width: 45px;
+}
+
+.coluna1 {
+  font-size: 18px;
+  text-align: center;
+}
+
+.coluna2 {
+  font-size: 14px;
+  color: #666666;
+  text-align: left;
+  width: 150px;
+}
+
+.coluna3 {
+  font-size: 14px;
+  color: black;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+.coluna-normal {
+  font-size: 14px;
+  color: #666666;
+  text-align: center;
+}
+
+.coluna-sombreada {
+  font-size: 14px;
+  color: #666666;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+label {
+  font-size: 10px;
+  color: #555555 !important;
+  text-align: left;
+}
+
+.footer {
+  padding-left: 10px;
+  text-align: left;
+}
